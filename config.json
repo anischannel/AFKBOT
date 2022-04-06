@@ -1,6 +1,6 @@
 {
 	"ip":"simpsop.aternos.me",
 	"port": "45009",
-	"name": "UHH BOT AFK",
-	"auto-night-skip":"true"
+	"name": "uhhbot",
+	"auto-night-skip":"false"
 }
